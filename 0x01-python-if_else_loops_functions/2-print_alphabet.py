@@ -1,3 +1,3 @@
 #!/usr/bin/python3
-def add(a, b):
-    return a + b
+for i in range(97, 123):
+    print(chr(i).format(), end="")
