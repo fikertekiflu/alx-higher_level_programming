@@ -1,0 +1,2 @@
+
+mysql -e "SHOW DATABASES;"
