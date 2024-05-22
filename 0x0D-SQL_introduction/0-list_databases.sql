@@ -1,2 +1,1 @@
-
-mysql -e "SHOW DATABASES;"
+SHOW DATABASES;
